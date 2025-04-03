@@ -1,0 +1,59 @@
+*{ margin: 0;}
+
+
+table { width: 100%;
+height: 100vh;
+border: 1px; color: black;
+height: 360px;
+width: 200;
+}
+
+
+    .verdeagua {
+        background-color:  #93DBCD;
+    }
+
+
+    .verdetranp {
+        background-color: #9FD3DB;
+    }
+   
+td
+{
+    width: 10%;
+}
+
+.form td {
+    background-color: #9FD3DB;
+    border-radius: 12px;
+    color: white;
+}
+
+
+.form label {
+    text-align: start;
+}
+
+
+.form div {
+    padding-top: 20px;
+}
+
+
+#motivo {
+    height: 100px;
+    width: 90%;
+}
+
+
+.form input {
+    border-radius: 15px;
+    border: none;
+    height: 30px;
+    width: 90%;
+}
+#branco{
+    background-color: white;
+}
+
+
